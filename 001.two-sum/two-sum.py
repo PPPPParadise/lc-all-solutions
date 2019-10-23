@@ -4,6 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :type target: int
         :rtype: List[int]
+        //:test
         """
         d = {}
         for i, num in enumerate(nums):
